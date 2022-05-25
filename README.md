@@ -4,7 +4,7 @@
 Mi proyecto final consiste en una página web de noticias (periódico local), allí hay noticias actualizadas del día a día del mundo actual. 
 
 # Pasos a seguir
-### <sub> ¡OBLIGATORIO! </sub>
+<sub> ¡OBLIGATORIO! </sub>
 #### Se deben ejecutar los siguientes comandos para correr el script (tarea automatizada) de forma correcta y lanzar el contenedor.
 ```
 sudo chmod u+x script_PF.sh                                Cambia los permisos del script para poder ejecutarlo.
