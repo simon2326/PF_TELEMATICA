@@ -6,10 +6,10 @@ Mi proyecto final consiste en una página web de noticias (periódico local), al
 # Pasos a seguir
 ### ¡OBLIGATORIO!
 #### Se deben ejecutar los siguientes comandos para correr el script (tarea automatizada) de forma correcta y lanzar el contenedor.
-```
-sudo chmod u+x script_PF.sh
-sudo ./script_PF.sh 
-```
+
+`sudo chmod u+x script_PF.sh` Cambia los permisos del script para poder ejecutarlo 
+`sudo ./script_PF.sh` Ejecuta el script 
+
 
 # Informacion adicional
 #### Comandos que se ejecutan dentro del script (tarea automatizada) - ¡NO SE DEBE HACER! (Es solo una explicación).
