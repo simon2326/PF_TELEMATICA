@@ -8,9 +8,8 @@ Mi proyecto final consiste en una página web de noticias (simulación de un per
 - sudo ./script_PF.sh 
 
 # CONTENIDO DEL REPOSITORIO
-
 El repositorio contiene 3 archivos:
-----> 1. MyApp, donde se encuntra el index.html y todos sus atributos (imágenes, fuentes, scripts, etc)
-----> 2. Dockerfile, documento para crear el contenedor automáticamente
-----> 3. Readme, pasos a ejecutar para el correcto funcionamiento del contenedor
+- 1. MyApp, donde se encuntra el index.html y todos sus atributos (imágenes, fuentes, scripts, etc)
+- 2. Dockerfile, documento para crear el contenedor automáticamente
+- 3. Readme, pasos a ejecutar para el correcto funcionamiento del contenedor
 
