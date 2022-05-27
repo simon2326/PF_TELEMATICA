@@ -28,3 +28,5 @@ docker run -d -p 80:80 miwebpage:v01 apachectl -D FOREGROUND
 2. Dockerfile, documento para crear el contenedor automáticamente.
 3. Readme, pasos a ejecutar para el correcto funcionamiento del contenedor.
 
+## Referencias
+La página web usada para realizar este proyecto no es de mi autoría, es un free html5 tomado de internet (de libre uso). Se le hicieron algunos cambios para adaptarla como una página web de noticias.
